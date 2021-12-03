@@ -1,2 +1,1 @@
-# Trex-a-color-
-ultima version del juego del Trex
+# PROC18_LP_AM1
